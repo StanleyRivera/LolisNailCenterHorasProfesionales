@@ -1,2 +1,2 @@
-# ProyectPizzeria
-proyecto de un sistema de para la pizzeria La Casa Italiana
+# ProyectHorasProfesionales
+proyecto de un sistema de para lolis nail center
